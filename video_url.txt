@@ -1,0 +1,5 @@
+Player URL:
+https://monkeydluffy-hue.github.io/player/?list=https://raw.githubusercontent.com/monkeydluffy-hue/ce8464afccf35f3e/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/monkeydluffy-hue/ce8464afccf35f3e/refs/heads/master/github_master.m3u8
